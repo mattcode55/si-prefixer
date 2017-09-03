@@ -1,0 +1,29 @@
+{
+  "name": "si-prefixer",
+  "version": "1.0.0",
+  "description": "Format numbers with SI prefixes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattcode55/si-prefixer"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.spec.js",
+    "lint": "eslint *.js"
+  },
+  "keywords": [],
+  "author": "Matt Smith <matty@posteo.net>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.6.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-mocha": "^4.11.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "mocha": "^3.5.0"
+  },
+  "dependencies": {}
+}
