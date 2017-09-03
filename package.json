@@ -1,6 +1,6 @@
 {
   "name": "si-prefixer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format numbers with SI prefixes",
   "repository": {
     "type": "git",
